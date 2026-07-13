@@ -2,7 +2,7 @@
 
 # Hi, I'm Ratu Qolbu Maziah 👋
 
-### Learning, building, and turning ideas into working software.
+### Informatics student · Python learner · Taekwondo athlete
 
 [![GitHub](https://img.shields.io/badge/GitHub-ratuqra-181717?style=for-the-badge&logo=github)](https://github.com/ratuqra)
 [![Profile views](https://komarev.com/ghpvc/?username=ratuqra&style=for-the-badge&color=6C63FF)](https://github.com/ratuqra)
@@ -11,12 +11,13 @@
 
 ## About me
 
-I'm a developer at **ITENAS** with a growing interest in building practical software and understanding how things work beneath the surface. My repositories document that journey—from programming fundamentals and Git to parallel computing, web development, and computer vision.
+I'm an **Informatics student at Institut Teknologi Nasional Bandung (ITENAS)**. I enjoy learning by building: my repositories trace a path from programming fundamentals and Git to parallel computing, web development, and computer vision.
 
+- 🎓 Studying **Informatics** at ITENAS Bandung
 - 🔭 Currently exploring **computer vision and image processing**
 - 🌱 Growing my skills in **Python, parallel computing, and web development**
-- 🧠 Interested in turning classroom concepts into useful, interactive projects
-- ⚡ Personal motto: **keep fighting, keep learning**
+- 🥉 Won bronze in **kyorugi** with UKM Taekwondo ITENAS at **ITN Open 8 (2025)**
+- ⚡ Bringing the same mindset to code and competition: **keep fighting, keep learning**
 
 ## Featured project
 
