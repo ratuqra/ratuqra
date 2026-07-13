@@ -50,8 +50,10 @@ A desktop application that detects and reads Indonesian vehicle license plates u
 ## GitHub snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratuqra&show_icons=true&theme=tokyonight&hide_border=true" alt="Ratu's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuqra&layout=compact&theme=tokyonight&hide_border=true" alt="Ratu's most-used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratuqra&theme=tokyonight" alt="Ratu's GitHub contribution summary" />
+  <br />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratuqra&theme=tokyonight" alt="Ratu's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratuqra&theme=tokyonight" alt="Ratu's repositories by language" />
 </div>
 
 <div align="center">
